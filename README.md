@@ -6,6 +6,6 @@
 <br/>
 </p>
 
-This is a small example app written to accompany a blog post () that demonstrates how to use the protocol to
+This is a small example app written to accompany a blog post (http://www.matt-buckley.com/interactive-transitions/) that demonstrates how to use the protocol to
 implement interactive transitions between view controllers.
 
