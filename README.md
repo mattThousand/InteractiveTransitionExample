@@ -2,7 +2,7 @@
 
 <p align="center" >
 <br/>
-<img src="https://raw.github.com/mattthousand/InteractiveTransitionExample/master/SplitTransitionInteractive.gif" alt="Overview" />
+<img src="https://raw.github.com/mattthousand/InteractiveTransitionExample/master/transition.gif" alt="Overview" />
 <br/>
 </p>
 
